@@ -1655,3 +1655,1413 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.23-22.28.01:343][726]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.23-22.28.01:343][726]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
 [2020.01.23-22.28.01:343][726]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.01.23-22.28.22:044][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-22.28.22:089][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.01.23-22.28.22:386][891]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda3F7D6C5D40B79852D25BF688BBA04E44.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-22.28.22:402][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.01.23-22.28.22:432][891]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltData7BE347D54762452A12C213814DA5726F.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.01.23-22.28.22:449][891]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.23-22.28.22:449][891]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-22.28.22:449][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.01.23-22.32.11:857][900]LogSlate: Window 'Select Path' being destroyed
+[2020.01.23-22.32.12:659][900]LogStaticMesh: Building static mesh Maze_01...
+[2020.01.23-22.32.12:806][900]LogStaticMesh: Built static mesh [0.14s] /Game/Mazes/Maze_01.Maze_01
+[2020.01.23-22.32.12:836][900]LogActorFactory: Actor Factory created Maze_01
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush13_15' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush-Floor' is marked pending kill and cannot be converted
+[2020.01.23-22.32.12:864][900]EditorErrors: New page: Actor Reattachment
+[2020.01.23-22.32.12:899][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.23-22.32.34:397][997]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mazes/Maze_01.Maze_01
+[2020.01.23-22.32.37:188][998]LogRenderer: Reallocating scene render targets to support 896x528 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-22.33.49:090][345]LogRenderer: Reallocating scene render targets to support 952x860 Format 10 NumSamples 1 (Frame:2363).
+[2020.01.23-22.34.32:358][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mazes/Maze_01" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Mazes/Maze_01.uasset" SILENT=true
+[2020.01.23-22.34.32:401][442]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/Maze_0102D900D44B7752583B8FAEAE3EEF0C0C.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Mazes/Maze_01.uasset'
+[2020.01.23-22.34.32:415][442]AssetCheck: New page: Asset Save: Maze_01
+[2020.01.23-22.34.32:415][442]LogContentValidation: Display: Validating StaticMesh /Game/Mazes/Maze_01.Maze_01
+[2020.01.23-22.34.43:078][327]LogSlate: Window 'Maze_01' being destroyed
+[2020.01.23-22.34.43:081][327]LogSlate: Window 'Maze_01' being destroyed
+[2020.01.23-22.34.43:090][327]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.34.43:090][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.36.05:082][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-22.36.32:127][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-22.36.46:937][629]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.01.23-22.37.02:562][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-22.37.02:757][657]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.01.23-22.37.03:161][657]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda2581684A41FF37F8A512D4924126BF83.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-22.37.03:177][657]LogFileHelpers: Saving map 'jazda' took 0.615
+[2020.01.23-22.37.03:190][657]AssetCheck: New page: Asset Save: jazda
+[2020.01.23-22.37.03:190][657]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-22.37.04:858][787]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-22.37.04:861][787]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-22.37.04:861][787]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.37.04:861][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.08:181][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.37.11:227][437]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.37.11:235][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.11:236][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.37.11:236][437]PIE: New page: PIE session: jazda (24 sty 2020, 00:37:11)
+[2020.01.23-22.37.11:236][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.11:240][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004046s)
+[2020.01.23-22.37.11:241][437]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.37.11:241][437]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.01.23-22.37.11:241][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005327s)
+[2020.01.23-22.37.11:454][437]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.37.11:457][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.37.11:457][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.37.11:458][437]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.37.11:458][437]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.37.11:459][437]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.37.11:466][437]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.11:467][437]LogInit: FAudioDevice initialized.
+[2020.01.23-22.37.11:473][437]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.37.11:474][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.37.11
+[2020.01.23-22.37.11:474][437]LogWorld: Bringing up level for play took: 0.000760
+[2020.01.23-22.37.11:474][437]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.01.23-22.37.11:476][437]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda -0,312
+[2020.01.23-22.37.11:476][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.23:754][892]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.23:754][892]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.23:754][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.23:754][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.23:754][892]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.23:754][892]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.23:754][892]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.37.23:754][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.23:763][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.37.23:763][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.23:768][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.23:798][892]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.23:800][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.23:804][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.01.23-22.37.23:861][894]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.23-22.37.27:128][275]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.37.28:455][425]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.32:140][833]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.33:275][968]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.36:599][364]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.37:263][442]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.37.38:140][536]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.37.39:555][702]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.41:421][889]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.37.41:429][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.41:429][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.37.41:429][889]PIE: New page: PIE session: jazda (24 sty 2020, 00:37:41)
+[2020.01.23-22.37.41:430][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.41:434][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004090s)
+[2020.01.23-22.37.41:435][889]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.37.41:435][889]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2020.01.23-22.37.41:435][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005475s)
+[2020.01.23-22.37.41:467][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.37.41:473][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.37.41:473][889]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.37.41:473][889]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.37.41:475][889]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.37.41:481][889]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.41:483][889]LogInit: FAudioDevice initialized.
+[2020.01.23-22.37.41:489][889]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.37.41:490][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.37.41
+[2020.01.23-22.37.41:490][889]LogWorld: Bringing up level for play took: 0.000754
+[2020.01.23-22.37.41:490][889]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.23-22.37.41:492][889]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda -0,297
+[2020.01.23-22.37.41:492][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.43:807][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.43:807][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.43:807][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.43:807][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.43:807][160]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.43:808][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.43:808][160]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.37.43:808][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.43:812][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.37.43:812][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.43:817][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.43:847][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.43:849][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.43:853][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.23-22.37.43:907][164]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.23-22.37.46:383][448]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.37.49:047][757]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.50:441][922]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.52:490][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.37.52:499][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.52:499][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.37.52:499][127]PIE: New page: PIE session: jazda (24 sty 2020, 00:37:52)
+[2020.01.23-22.37.52:499][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.52:504][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004775s)
+[2020.01.23-22.37.52:505][127]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.37.52:505][127]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2020.01.23-22.37.52:505][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.006200s)
+[2020.01.23-22.37.52:537][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.37.52:541][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.37.52:541][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.37.52:542][127]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.37.52:542][127]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.37.52:543][127]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.37.52:549][127]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.52:551][127]LogInit: FAudioDevice initialized.
+[2020.01.23-22.37.52:559][127]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.37.52:560][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.37.52
+[2020.01.23-22.37.52:560][127]LogWorld: Bringing up level for play took: 0.000751
+[2020.01.23-22.37.52:560][127]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.01.23-22.37.52:562][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,774
+[2020.01.23-22.37.52:562][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.54:235][324]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.54:235][324]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.54:235][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.54:235][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.54:235][324]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.54:235][324]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.54:235][324]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.37.54:235][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.54:240][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.37.54:240][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.54:246][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.37.54:275][324]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.37.54:277][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.37.54:281][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.23-22.37.54:334][329]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.23-22.37.54:930][398]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.37.57:948][725]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.37.59:565][880]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.37.59:573][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.37.59:573][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.37.59:573][880]PIE: New page: PIE session: jazda (24 sty 2020, 00:37:59)
+[2020.01.23-22.37.59:573][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.37.59:578][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004185s)
+[2020.01.23-22.37.59:579][880]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.37.59:579][880]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.01.23-22.37.59:579][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005462s)
+[2020.01.23-22.37.59:612][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.37.59:616][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.37.59:616][880]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.37.59:616][880]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.37.59:617][880]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.37.59:624][880]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.37.59:625][880]LogInit: FAudioDevice initialized.
+[2020.01.23-22.37.59:632][880]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.37.59:633][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.37.59
+[2020.01.23-22.37.59:633][880]LogWorld: Bringing up level for play took: 0.000811
+[2020.01.23-22.37.59:633][880]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.23-22.37.59:635][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda -0,154
+[2020.01.23-22.37.59:635][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.13:767][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.13:767][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.13:767][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.13:767][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.13:767][572]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.38.13:767][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.13:767][572]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.38.13:767][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.13:775][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.38.13:776][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.13:781][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.13:810][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.13:812][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.13:817][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.01.23-22.38.13:873][575]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.23-22.38.27:550][833]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Maze_01)
+[2020.01.23-22.38.30:008][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.38.30:017][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.30:017][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.38.30:017][ 53]PIE: New page: PIE session: jazda (24 sty 2020, 00:38:30)
+[2020.01.23-22.38.30:017][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.38.30:021][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004092s)
+[2020.01.23-22.38.30:022][ 53]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.38.30:023][ 53]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2020.01.23-22.38.30:023][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005399s)
+[2020.01.23-22.38.30:055][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.38.30:058][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.38.30:058][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.38.30:058][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.38.30:060][ 53]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.38.30:066][ 53]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.38.30:068][ 53]LogInit: FAudioDevice initialized.
+[2020.01.23-22.38.30:075][ 53]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.38.30:076][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.38.30
+[2020.01.23-22.38.30:076][ 53]LogWorld: Bringing up level for play took: 0.000779
+[2020.01.23-22.38.30:076][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.23-22.38.30:078][ 53]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,29
+[2020.01.23-22.38.30:078][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.37:712][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.37:712][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.37:712][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.37:712][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.37:712][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.38.37:712][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.37:712][965]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.38.37:713][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.37:721][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.38.37:721][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.37:727][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.37:758][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.37:760][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.37:764][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.01.23-22.38.37:814][968]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.23-22.38.41:169][351]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.38.42:957][559]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.38.43:854][665]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.38.45:826][856]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.38.45:835][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.45:835][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.38.45:835][856]PIE: New page: PIE session: jazda (24 sty 2020, 00:38:45)
+[2020.01.23-22.38.45:835][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.38.45:839][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004066s)
+[2020.01.23-22.38.45:840][856]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.38.45:840][856]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2020.01.23-22.38.45:840][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005333s)
+[2020.01.23-22.38.45:873][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.38.45:877][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.38.45:877][856]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.38.45:877][856]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.38.45:879][856]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.38.45:885][856]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.38.45:887][856]LogInit: FAudioDevice initialized.
+[2020.01.23-22.38.45:896][856]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.38.45:897][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.38.45
+[2020.01.23-22.38.45:897][856]LogWorld: Bringing up level for play took: 0.000763
+[2020.01.23-22.38.45:897][856]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.01.23-22.38.45:899][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,111
+[2020.01.23-22.38.45:899][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.49:209][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.49:209][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.49:209][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.49:209][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.49:209][249]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.38.49:209][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.49:209][249]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.38.49:210][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.49:215][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.38.49:215][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.38.49:220][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.38.49:250][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.38.49:252][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.38.49:256][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.23-22.38.49:317][254]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.23-22.39.11:164][637]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.01.23-22.47.45:105][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.23-22.47.45:107][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/Autosaves/Game/Maps/jazda_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-22.47.45:384][617]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_Auto433106DC0465756855326AF9463D986C7.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/Autosaves/Game/Maps/jazda_Auto4.umap'
+[2020.01.23-22.47.45:385][617]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/jazda' took 0.318
+[2020.01.23-22.47.45:385][617]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2020.01.23-22.47.58:221][772]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-22.47.58:223][772]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-22.47.58:224][772]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.47.58:224][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.47.59:380][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-22.48.18:944][118]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.48.26:160][884]Cmd: DELETE
+[2020.01.23-22.48.26:160][884]Cmd: ACTOR DELETE
+[2020.01.23-22.48.26:162][884]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-22.48.26:196][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.01.23-22.48.26:203][884]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.01.23-22.48.26:748][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-22.48.33:814][737]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.48.35:938][930]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-22.48.40:544][408]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.48.48:924][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.48.49:733][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.48.52:699][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.49.54:154][630]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-22.50.01:431][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.50.05:420][824]Cmd: TRANSACTION UNDO
+[2020.01.23-22.50.05:420][824]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.50.23:097][645]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.50.32:553][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.50.39:671][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.50.43:975][970]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.10:762][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.15:297][504]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.24:077][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.41:730][449]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.50:278][428]Cmd: TRANSACTION UNDO
+[2020.01.23-22.51.50:278][428]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.51.51:913][543]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.51.53:498][656]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2020.01.23-22.51.55:440][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.03:913][817]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.12:395][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.17:192][308]Cmd: TRANSACTION UNDO
+[2020.01.23-22.52.17:192][308]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.52.24:165][993]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.52.24:165][993]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.52.24:432][ 19]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.52.32:667][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.38:306][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.43:412][183]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.52.59:644][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.53.05:411][633]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.53.05:967][696]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.53.06:815][790]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.53.07:412][855]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.53.07:957][914]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.53.14:899][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.53.22:144][514]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2020.01.23-22.53.25:633][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.53.34:715][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.53.44:403][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.53.45:155][ 92]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.53.46:423][242]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.01.23-22.53.50:268][691]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.53.50:268][691]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.53.50:622][728]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2020.01.23-22.53.52:469][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.54.53:338][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.54.55:310][249]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.54.57:339][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.55.06:523][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.55.11:862][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.55.30:467][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.55.43:240][152]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.55.49:929][868]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2020.01.23-22.56.37:112][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.56.43:128][560]Cmd: DELETE
+[2020.01.23-22.56.43:128][560]Cmd: ACTOR DELETE
+[2020.01.23-22.56.43:137][560]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-22.56.43:172][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.01.23-22.56.43:196][560]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2020.01.23-22.56.53:818][798]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.57.01:315][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.57.09:017][337]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.57.24:172][583]LogSlate: Window 'Select Path' being destroyed
+[2020.01.23-22.57.24:364][583]LogStaticMesh: Building static mesh Maze_02...
+[2020.01.23-22.57.24:378][583]LogStaticMesh: Built static mesh [0.01s] /Game/Mazes/Maze_02.Maze_02
+[2020.01.23-22.57.24:380][583]LogActorFactory: Actor Factory created Maze_02
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush11_35' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]LogEditor: Error: Actor 'Brush /Game/Maps/jazda.jazda:PersistentLevel.BoxBrush_20' is marked pending kill and cannot be converted
+[2020.01.23-22.57.24:409][583]EditorErrors: New page: Actor Reattachment
+[2020.01.23-22.57.24:443][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.01.23-22.57.39:022][ 84]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Maze_02)
+[2020.01.23-22.57.40:098][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere)
+[2020.01.23-22.57.48:126][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-22.57.56:107][598]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.57.56:116][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.57.56:116][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.57.56:116][598]PIE: New page: PIE session: jazda (24 sty 2020, 00:57:56)
+[2020.01.23-22.57.56:116][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.57.56:121][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004384s)
+[2020.01.23-22.57.56:122][598]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.57.56:122][598]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2020.01.23-22.57.56:122][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005733s)
+[2020.01.23-22.57.56:154][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.57.56:161][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.57.56:161][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.57.56:162][598]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.57.56:162][598]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.57.56:163][598]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.57.56:170][598]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.57.56:171][598]LogInit: FAudioDevice initialized.
+[2020.01.23-22.57.56:178][598]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.57.56:179][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.57.56
+[2020.01.23-22.57.56:179][598]LogWorld: Bringing up level for play took: 0.000809
+[2020.01.23-22.57.56:179][598]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.01.23-22.57.56:181][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,379
+[2020.01.23-22.57.56:181][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.57.58:083][822]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.57.58:083][822]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.57.58:083][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.57.58:083][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.57.58:083][822]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.57.58:083][822]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.57.58:084][822]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.57.58:084][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.57.58:087][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.57.58:087][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.57.58:093][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.57.58:125][822]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.57.58:127][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.57.58:131][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.23-22.57.58:190][825]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.23-22.58.00:754][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-22.58.03:916][370]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.01.23-22.58.17:606][132]BlueprintLog: New page: Compile jazda
+[2020.01.23-22.58.17:903][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.01.23-22.58.18:429][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-22.58.18:463][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.01.23-22.58.18:772][153]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda25BA47784F040FD376B781A39EFEC5DE.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-22.58.18:795][153]LogFileHelpers: Saving map 'jazda' took 0.366
+[2020.01.23-22.58.18:805][153]AssetCheck: New page: Asset Save: jazda
+[2020.01.23-22.58.18:806][153]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-22.58.21:883][364]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.58.21:892][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.58.21:892][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.58.21:892][364]PIE: New page: PIE session: jazda (24 sty 2020, 00:58:21)
+[2020.01.23-22.58.21:892][364]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.58.21:896][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004191s)
+[2020.01.23-22.58.21:897][364]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.58.21:897][364]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2020.01.23-22.58.21:897][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005481s)
+[2020.01.23-22.58.21:939][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.58.21:942][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.58.21:942][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.58.21:943][364]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.58.21:943][364]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.58.21:944][364]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.58.21:950][364]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.58.21:952][364]LogInit: FAudioDevice initialized.
+[2020.01.23-22.58.21:960][364]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.58.21:961][364]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.58.21
+[2020.01.23-22.58.21:961][364]LogWorld: Bringing up level for play took: 0.000809
+[2020.01.23-22.58.21:961][364]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.23-22.58.21:963][364]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,16
+[2020.01.23-22.58.21:963][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.58.22:397][412]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:405][413]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:414][414]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:422][415]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:430][416]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:439][417]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:447][418]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:455][419]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:464][420]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:472][421]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:480][422]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:489][423]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:497][424]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:505][425]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:514][426]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:522][427]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:530][428]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:539][429]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:547][430]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:555][431]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:564][432]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:572][433]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:580][434]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:589][435]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:597][436]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:606][437]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:614][438]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:622][439]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:630][440]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:647][442]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:655][443]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:664][444]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:672][445]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:680][446]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:689][447]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:697][448]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:705][449]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:714][450]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:722][451]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:730][452]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:739][453]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:747][454]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:755][455]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:764][456]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:772][457]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:780][458]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:789][459]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:797][460]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:805][461]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:814][462]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:822][463]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:830][464]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:839][465]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:847][466]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:855][467]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:864][468]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:872][469]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:880][470]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:889][471]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:897][472]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:905][473]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:914][474]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:922][475]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:930][476]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:939][477]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:947][478]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:955][479]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:964][480]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:972][481]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:980][482]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:989][483]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.22:997][484]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:005][485]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:014][486]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:022][487]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:030][488]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:039][489]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:047][490]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:055][491]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:064][492]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:072][493]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:080][494]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:089][495]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:097][496]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:105][497]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:114][498]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:122][499]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:130][500]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:139][501]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:147][502]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:155][503]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:164][504]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:172][505]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:180][506]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:189][507]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:197][508]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:205][509]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:214][510]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:222][511]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:230][512]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:239][513]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:247][514]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:255][515]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:264][516]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:272][517]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:280][518]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:289][519]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:297][520]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:305][521]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:314][522]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:322][523]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:330][524]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:339][525]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:347][526]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:355][527]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:364][528]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:372][529]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:380][530]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:389][531]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:397][532]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:405][533]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:414][534]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:422][535]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:430][536]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:439][537]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:447][538]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:455][539]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:464][540]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:472][541]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:480][542]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:489][543]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:497][544]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:505][545]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:514][546]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:522][547]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:530][548]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:539][549]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:547][550]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:555][551]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:564][552]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:572][553]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:580][554]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:589][555]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:597][556]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:605][557]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:614][558]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:622][559]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:630][560]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:639][561]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:647][562]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:655][563]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:664][564]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:672][565]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:680][566]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:689][567]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:697][568]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:705][569]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:714][570]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:722][571]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:730][572]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:739][573]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:747][574]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:755][575]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:764][576]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:772][577]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:780][578]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:789][579]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:797][580]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:805][581]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:814][582]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:822][583]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:830][584]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:839][585]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:847][586]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:855][587]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:864][588]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:872][589]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:881][590]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:889][591]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:897][592]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:905][593]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:914][594]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:922][595]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:930][596]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:939][597]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:947][598]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:955][599]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:964][600]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:972][601]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:980][602]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:989][603]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.23:997][604]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:005][605]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:014][606]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:022][607]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:030][608]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:039][609]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:047][610]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:055][611]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:064][612]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:072][613]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:080][614]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:089][615]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:097][616]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:105][617]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:114][618]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:122][619]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:130][620]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:139][621]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:147][622]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:155][623]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:164][624]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:172][625]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:180][626]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:189][627]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:197][628]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:205][629]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:214][630]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:222][631]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:230][632]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:239][633]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:247][634]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:255][635]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:264][636]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:272][637]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:280][638]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:289][639]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:297][640]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:305][641]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:314][642]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:322][643]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:330][644]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:339][645]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:347][646]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:355][647]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:364][648]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:372][649]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:380][650]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:389][651]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:397][652]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:497][664]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:505][665]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:514][666]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:522][667]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:530][668]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:539][669]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:547][670]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:555][671]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:564][672]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:572][673]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:580][674]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:589][675]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:597][676]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:605][677]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:614][678]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:622][679]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:630][680]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:639][681]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:647][682]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:655][683]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:664][684]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:672][685]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:680][686]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:689][687]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:697][688]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:705][689]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:714][690]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:722][691]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:730][692]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:739][693]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:747][694]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:755][695]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:764][696]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:772][697]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:781][698]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:789][699]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:797][700]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:855][707]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:864][708]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:872][709]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:880][710]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:889][711]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:897][712]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:905][713]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:914][714]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:922][715]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:930][716]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:939][717]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:947][718]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:955][719]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:964][720]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:972][721]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:980][722]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:989][723]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.24:997][724]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:005][725]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:014][726]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:022][727]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:030][728]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:039][729]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:047][730]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:055][731]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:064][732]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:072][733]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:080][734]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:089][735]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:097][736]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:105][737]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:114][738]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:122][739]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:130][740]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:139][741]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:147][742]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:155][743]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:164][744]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:172][745]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:180][746]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:189][747]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:197][748]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:205][749]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:214][750]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:397][772]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:405][773]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:414][774]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:422][775]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:430][776]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:439][777]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:447][778]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:455][779]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:464][780]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:472][781]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:480][782]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:489][783]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:497][784]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:505][785]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:514][786]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:522][787]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:530][788]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:614][798]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:622][799]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:630][800]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:639][801]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:647][802]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:655][803]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:664][804]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:672][805]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:680][806]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:689][807]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:697][808]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:705][809]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:714][810]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:722][811]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:731][812]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:739][813]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:747][814]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:755][815]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:764][816]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:772][817]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:780][818]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:789][819]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:797][820]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:805][821]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:814][822]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:822][823]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:830][824]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:839][825]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:847][826]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:855][827]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:864][828]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:872][829]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:881][830]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:889][831]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:897][832]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:909][833]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:917][834]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:925][835]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:934][836]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:942][837]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:950][838]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:959][839]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:967][840]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:975][841]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:984][842]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.25:992][843]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:000][844]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:009][845]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:017][846]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:025][847]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:034][848]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:042][849]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:050][850]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:059][851]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:067][852]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:075][853]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:084][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:092][855]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:100][856]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:109][857]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:117][858]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:125][859]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:134][860]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:142][861]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:150][862]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:159][863]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:167][864]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:175][865]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:184][866]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:192][867]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:200][868]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:209][869]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:217][870]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:226][871]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:234][872]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:242][873]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:250][874]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:259][875]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:267][876]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:275][877]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:284][878]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:292][879]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:300][880]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:309][881]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:317][882]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:325][883]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:334][884]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:342][885]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:350][886]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:359][887]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:367][888]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:375][889]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:384][890]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:392][891]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:400][892]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:409][893]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:417][894]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:425][895]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:434][896]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:442][897]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:450][898]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:459][899]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:467][900]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:475][901]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:484][902]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:492][903]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:500][904]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:509][905]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:517][906]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:525][907]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:534][908]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:542][909]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:550][910]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:559][911]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:567][912]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:575][913]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:584][914]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:592][915]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:600][916]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:609][917]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:617][918]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:625][919]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:867][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:875][949]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:884][950]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:892][951]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:900][952]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:909][953]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:917][954]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:925][955]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:934][956]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:942][957]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:950][958]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:959][959]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:967][960]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:975][961]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:984][962]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.26:992][963]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:000][964]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:009][965]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:017][966]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:025][967]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:034][968]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:042][969]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:050][970]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:059][971]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:067][972]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:075][973]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:084][974]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:092][975]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:100][976]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:109][977]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:117][978]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:300][  0]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:309][  1]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:317][  2]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:325][  3]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:334][  4]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:342][  5]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:350][  6]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:359][  7]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:367][  8]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:375][  9]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:384][ 10]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:392][ 11]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:400][ 12]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:409][ 13]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:417][ 14]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:425][ 15]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:434][ 16]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:442][ 17]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:450][ 18]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:459][ 19]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:467][ 20]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:551][ 30]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:559][ 31]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:567][ 32]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:575][ 33]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:584][ 34]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:592][ 35]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:600][ 36]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:609][ 37]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:617][ 38]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:626][ 39]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:634][ 40]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:642][ 41]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:650][ 42]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:659][ 43]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:692][ 47]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:701][ 48]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:709][ 49]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:717][ 50]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:725][ 51]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:734][ 52]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:742][ 53]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:751][ 54]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:759][ 55]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:767][ 56]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:775][ 57]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:784][ 58]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:792][ 59]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:800][ 60]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:809][ 61]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:817][ 62]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:825][ 63]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:834][ 64]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:842][ 65]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:875][ 69]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:884][ 70]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:892][ 71]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:900][ 72]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:909][ 73]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:917][ 74]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:925][ 75]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:934][ 76]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:942][ 77]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:950][ 78]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:959][ 79]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:967][ 80]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:975][ 81]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:984][ 82]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.27:992][ 83]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.28:000][ 84]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.28:009][ 85]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.28:017][ 86]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_jazda.jazda:PersistentLevel.Maze_02 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-22.58.28:085][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.58.28:085][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.58.28:085][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.58.28:085][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.58.28:085][ 94]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.58.28:085][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.58.28:085][ 94]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.58.28:085][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.58.28:099][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.58.28:099][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.58.28:105][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.58.28:137][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.58.28:139][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.58.28:144][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.01.23-22.58.28:193][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.23-22.58.29:229][165]LogSlate: Window 'Message Log' being destroyed
+[2020.01.23-22.58.29:238][165]LogSlate: Window 'Message Log' being destroyed
+[2020.01.23-22.58.30:883][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-22.58.37:474][689]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mazes/Maze_02.Maze_02
+[2020.01.23-22.59.01:820][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mazes/Maze_02" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Mazes/Maze_02.uasset" SILENT=true
+[2020.01.23-22.59.01:833][625]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/Maze_02474B6EAC4124342795118BAC0F932D41.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Mazes/Maze_02.uasset'
+[2020.01.23-22.59.01:845][625]AssetCheck: New page: Asset Save: Maze_02
+[2020.01.23-22.59.01:845][625]LogContentValidation: Display: Validating StaticMesh /Game/Mazes/Maze_02.Maze_02
+[2020.01.23-22.59.02:795][704]LogSlate: Window 'Maze_02' being destroyed
+[2020.01.23-22.59.02:797][704]LogSlate: Window 'Maze_02' being destroyed
+[2020.01.23-22.59.02:805][704]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.59.02:805][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.59.02:857][704]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.59.02:857][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.59.04:612][846]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.59.04:621][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.59.04:621][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.59.04:621][846]PIE: New page: PIE session: jazda (24 sty 2020, 00:59:04)
+[2020.01.23-22.59.04:622][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.59.04:626][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004159s)
+[2020.01.23-22.59.04:627][846]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-22.59.04:627][846]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2020.01.23-22.59.04:627][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005465s)
+[2020.01.23-22.59.04:663][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-22.59.04:669][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-22.59.04:669][846]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-22.59.04:669][846]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: Channel Order:
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-22.59.04:671][846]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-22.59.04:677][846]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-22.59.04:679][846]LogInit: FAudioDevice initialized.
+[2020.01.23-22.59.04:685][846]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.59.04:686][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.23-23.59.04
+[2020.01.23-22.59.04:686][846]LogWorld: Bringing up level for play took: 0.000811
+[2020.01.23-22.59.04:686][846]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.01.23-22.59.04:688][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,885
+[2020.01.23-22.59.04:688][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.59.32:014][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.59.32:014][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.59.32:014][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.59.32:014][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.59.32:014][116]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-22.59.32:014][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.59.32:014][116]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.59.32:014][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.59.32:019][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.59.32:019][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-22.59.32:024][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-22.59.32:053][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-22.59.32:055][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.59.32:060][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.23-22.59.32:113][121]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.01.23-22.59.33:959][342]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-22.59.37:561][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-22.59.38:072][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-22.59.38:696][871]Cmd: DELETE
+[2020.01.23-22.59.38:696][871]Cmd: ACTOR DELETE
+[2020.01.23-22.59.38:698][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.23-22.59.38:730][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.23-22.59.38:733][871]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.01.23-22.59.39:939][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-22.59.40:202][ 41]Cmd: DELETE
+[2020.01.23-22.59.40:202][ 41]Cmd: ACTOR DELETE
+[2020.01.23-22.59.42:630][ 41]LogSlate: Window 'Message' being destroyed
+[2020.01.23-22.59.42:632][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.23-22.59.42:664][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.23-22.59.42:665][ 41]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.01.23-22.59.47:605][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-22.59.47:638][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.23-22.59.47:669][598]LogBlueprint: Warning: [Compiler PersistentLevel.jazda] Node  Unknown  is not referencing a valid level actor
+[2020.01.23-22.59.47:922][598]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda6D13CBE945C2BE819C71D295502196D9.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-22.59.47:938][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.01.23-22.59.47:953][598]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltData0B3769E04203F01C91A59FBABD6F5177.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.01.23-22.59.47:970][598]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.23-22.59.47:970][598]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-22.59.47:970][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.01.23-23.00.16:971][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-23.00.28:569][910]Cmd: TRANSACTION UNDO
+[2020.01.23-23.00.28:569][910]LogEditorTransaction: Undo Move Actors
+[2020.01.23-23.01.04:101][564]EditorErrors: New page: Actor attachment
+[2020.01.23-23.01.26:433][390]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-23.01.26:441][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.01.26:441][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-23.01.26:441][390]PIE: New page: PIE session: jazda (24 sty 2020, 01:01:26)
+[2020.01.23-23.01.26:441][390]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-23.01.26:446][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004391s)
+[2020.01.23-23.01.26:447][390]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-23.01.26:447][390]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2020.01.23-23.01.26:447][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005820s)
+[2020.01.23-23.01.26:484][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-23.01.26:494][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-23.01.26:494][390]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-23.01.26:494][390]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: Channel Order:
+[2020.01.23-23.01.26:495][390]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-23.01.26:496][390]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-23.01.26:502][390]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-23.01.26:504][390]LogInit: FAudioDevice initialized.
+[2020.01.23-23.01.26:513][390]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-23.01.26:514][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.24-00.01.26
+[2020.01.23-23.01.26:514][390]LogWorld: Bringing up level for play took: 0.000793
+[2020.01.23-23.01.26:514][390]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.01.23-23.01.26:569][390]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 0,764
+[2020.01.23-23.01.26:569][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.01.29:281][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.01.29:281][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.01.29:281][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.01.29:282][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.01.29:282][711]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-23.01.29:282][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.01.29:282][711]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-23.01.29:282][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.01.29:286][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-23.01.29:286][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.01.29:291][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.01.29:321][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.01.29:323][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.01.29:328][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.23-23.01.29:383][714]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.01.23-23.01.50:799][190]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.01.23-23.06.32:976][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-23.06.33:013][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.01.23-23.06.33:294][137]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazdaCB0B056A4063197EC12473B5208CE417.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-23.06.33:310][137]LogFileHelpers: Saving map 'jazda' took 0.334
+[2020.01.23-23.06.33:321][137]AssetCheck: New page: Asset Save: jazda
+[2020.01.23-23.06.33:321][137]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-23.07.07:651][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Ball)
+[2020.01.23-23.07.53:233][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-23.07.53:271][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.01.23-23.07.53:555][535]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda7DF69199403CD7FCBA15A99FA845AB1B.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-23.07.53:606][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.01.23-23.07.53:638][535]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltData354CE95D420A7BE6C50CB2946035D7D7.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.01.23-23.07.53:655][535]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.23-23.07.53:655][535]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-23.07.53:655][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.01.23-23.08.08:066][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-23.08.09:697][870]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-23.08.09:705][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.08.09:705][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-23.08.09:705][870]PIE: New page: PIE session: jazda (24 sty 2020, 01:08:09)
+[2020.01.23-23.08.09:705][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-23.08.09:710][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004244s)
+[2020.01.23-23.08.09:711][870]LogAIModule: Creating AISystem for world jazda
+[2020.01.23-23.08.09:711][870]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2020.01.23-23.08.09:711][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.005528s)
+[2020.01.23-23.08.09:747][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-23.08.09:749][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-23.08.09:749][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-23.08.09:750][870]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-23.08.09:750][870]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: Channel Order:
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-23.08.09:751][870]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-23.08.09:758][870]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.01.23-23.08.09:759][870]LogInit: FAudioDevice initialized.
+[2020.01.23-23.08.09:769][870]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-23.08.09:770][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.01.24-00.08.09
+[2020.01.23-23.08.09:770][870]LogWorld: Bringing up level for play took: 0.000797
+[2020.01.23-23.08.09:770][870]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.01.23-23.08.09:772][870]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda -0,037
+[2020.01.23-23.08.09:772][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.08.50:770][769]LogBlueprintUserMessages: [jazda_C_23] WYGRAŃSKO!
+[2020.01.23-23.08.52:406][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.08.52:406][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.08.52:406][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.08.52:406][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.08.52:406][962]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.01.23-23.08.52:406][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.08.52:406][962]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-23.08.52:407][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.08.52:415][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-23.08.52:415][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.01.23-23.08.52:420][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.08.52:454][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.08.52:456][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.08.52:460][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.23-23.08.52:508][966]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.01.23-23.09.29:442][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-23.09.29:476][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.23-23.09.29:757][793]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda731B55E54BB9425D0385FA91D5B98797.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-23.09.29:772][793]LogFileHelpers: Saving map 'jazda' took 0.330
+[2020.01.23-23.09.29:783][793]AssetCheck: New page: Asset Save: jazda
+[2020.01.23-23.09.29:783][793]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-23.09.30:689][894]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-23.09.30:690][894]LogSlate: Window 'jazda' being destroyed
+[2020.01.23-23.09.30:691][894]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-23.09.30:691][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.09.32:007][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-23.09.32:043][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.01.23-23.09.32:305][ 19]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazdaB238303742060FF4AE98ECA8A0414570.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-23.09.32:344][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.01.23-23.09.32:351][ 19]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltData0385ED1A4C18D7771B13B78F42105C3C.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.01.23-23.09.32:371][ 19]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.23-23.09.32:372][ 19]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-23.09.32:372][ 19]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.01.23-23.09.35:345][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-23.09.35:382][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.01.23-23.09.35:646][347]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda08345EEC41C10D50023D9F8E1159D503.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.01.23-23.09.35:662][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.01.23-23.09.35:670][347]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltData8EDE2FF44AAAC08A34B8E09457F5C8BA.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.01.23-23.09.35:687][347]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.23-23.09.35:687][347]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.01.23-23.09.35:687][347]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
