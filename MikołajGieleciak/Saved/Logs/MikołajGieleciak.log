@@ -1316,3 +1316,577 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-11.48.02:431][623]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.18-11.48.02:431][623]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
 [2020.05.18-11.48.02:431][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
+[2020.05.18-11.57.50:715][855]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.18-11.57.50:716][855]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.18-11.58.01:328][570]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2020.05.18-11.58.16:122][570]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.05.18-11.58.16:123][570]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" -cook -stage -archive -archivedirectory=C:/Users/user/Desktop/Labirynt -package -ue4exe="D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2020.05.18-11.58.17:237][630]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-11.58.24:594][104]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.05.18-11.58.24:615][105]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-11.58.24:638][107]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-13.58.24.txt
+[2020.05.18-11.58.24:641][107]UATHelper: Packaging (Windows (64-bit)): Running: D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-13.58.24.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.05.18-11.58.31:884][420]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.05.18-11.58.31:884][420]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: MikołajGieleciak
+[2020.05.18-12.00.43:236][660]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.05.18-12.01.17:959][660]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.05.18-12.01.18:167][668]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" -cook -stage -archive -archivedirectory=C:/Users/user/Desktop/Labirynt -package -ue4exe="D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2020.05.18-12.01.18:473][686]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-12.01.19:048][720]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.05.18-12.01.19:059][721]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-12.01.19:090][723]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-14.01.19.txt
+[2020.05.18-12.01.19:090][723]UATHelper: Packaging (Windows (64-bit)): Running: D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-14.01.19.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.05.18-12.01.19:246][732]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.05.18-12.01.19:246][732]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: MikołajGieleciak
+[2020.05.18-12.01.34:006][419]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8545951744 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.18-12.01.37:803][660]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.18-12.01.37:868][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_
+[2020.05.18-12.01.37:868][664]UATHelper: XT'
+[2020.05.18-12.01.37:868][664]UATHelper: C1'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.18-12.01.37:869][664]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.18-12.01.38:036][675]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.18-12.01.38:036][675]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.18-12.01.38:075][677]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.18-12.01.38:092][678]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.18-12.01.38:114][680]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.18-12.01.38:137][681]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.18-12.01.38:148][682]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.18-12.01.38:163][683]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.18-12.01.38:206][685]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.18-12.01.38:206][685]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.18-12.01.38:255][688]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.18-12.01.38:255][688]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.18-12.01.38:295][691]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.18-12.01.38:335][693]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.18-12.01.38:360][695]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.18-12.01.38:368][695]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.18-12.01.38:368][695]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.05.18-12.01.38:493][703]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.18-12.01.39:088][741]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.18-12.01.40:960][858]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.18-12.01.41:231][869]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.18-12.01.41:247][870]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.18-12.01.48:653][331]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-12.01.48:653][331]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-12.01.59:561][918]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.18-12.01.59:562][918]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.05.18-12.01.59:623][922]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.05.18-12.02.24:396][380]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.05.18-12.02.24:396][380]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.05.18-12.02.24:396][380]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.05.18-12.02.24:730][381]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.100 seconds for platforms WindowsNoEditor  iterative false
+[2020.05.18-12.02.29:398][394]UATHelper: Packaging (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.29:398][394]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.29:398][394]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 166 Total 166
+[2020.05.18-12.02.29:398][394]PackagingResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.29:398][394]PackagingResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.30:409][398]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 165 Total 215
+[2020.05.18-12.02.33:428][407]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 172 Total 272
+[2020.05.18-12.02.39:168][422]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 171 Total 321
+[2020.05.18-12.02.39:839][424]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 175 Packages Remain 170 Total 345
+[2020.05.18-12.02.40:171][425]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 175 Packages Remain 26 Total 201
+[2020.05.18-12.02.41:196][429]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 188 Packages Remain 25 Total 213
+[2020.05.18-12.02.41:196][429]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 189 Packages Remain 24 Total 213
+[2020.05.18-12.02.41:537][441]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 194 Packages Remain 23 Total 217
+[2020.05.18-12.02.41:537][441]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 194 Packages Remain 0 Total 194
+[2020.05.18-12.02.41:537][441]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.05.18-12.02.41:787][456]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.05.18-12.02.41:787][456]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.05.18-12.02.41:787][456]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.05.18-12.02.41:916][463]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.05.18-12.02.42:279][486]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 191, size is 116.06kb
+[2020.05.18-12.02.42:279][486]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.05.18-12.02.42:286][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 12.272199s total time 42.703255
+[2020.05.18-12.02.42:286][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 568MB Peak Used physical 431MB
+[2020.05.18-12.02.42:286][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.05.18-12.02.42:286][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 29.642s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 24.642s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.100s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.007s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.684s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.009s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 12.268s (22)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 2.384s (22)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.100s (22)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (22)
+[2020.05.18-12.02.42:616][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 9.782s (7)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.000s (216)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 5.103s (213)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 3.726s (194)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (194)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 3.717s (194)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.048s (194)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (191)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.004s (194)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (3)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.246s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.050s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.006s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.435s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.031s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.020s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.376s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.007s (1)
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.008892s to verify the EDL loading graph.
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000055
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=147
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=4.491256
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=194
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=3.658698
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.255596
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.036740
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000780
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001120
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000235
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.075054
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.074246
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.618965
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=89.022949
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.05.18-12.02.42:617][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=83.191786
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=40.369844
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=42.815928
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=29.669277
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.008674
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=13.052440
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.384614
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=3.726335
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=5.202742
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.946328
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000007
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000007
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.002873
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       495
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       495
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.014141
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.985859
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  2.07                   2.07             0          7.13
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             1.12                   0.00             0         36.59
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.56                   0.56             0          5.49
+[2020.05.18-12.02.42:618][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.55                   0.55             0          1.16
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.47                   0.47             0          0.04
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.36                   0.36             0          0.54
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.06                   0.06             0         38.27
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.02
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   
+[2020.05.18-12.02.42:619][487]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  43.07 seconds
+[2020.05.18-12.03.12:423][576]UATHelper: Packaging (Windows (64-bit)):   Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+[2020.05.18-12.03.19:104][596]UATHelper: Packaging (Windows (64-bit)): Took 119,9168588s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.05.18-12.03.19:104][596]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.05.18-12.03.19:104][596]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.05.18-12.03.19:437][597]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)): ERROR: System.Exception: Couldn't update resource
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w ModuleResourceUpdate.SetData(Int32 ResourceId, ResourceType Type, Byte[] Data) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinResources.cs:wiersz 265
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w ModuleResourceUpdate.SetIcons(Int32 ResourceId, GroupIconResource GroupIcon) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinResources.cs:wiersz 270
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w BaseWinPlatform.StageBootstrapExecutable(DeploymentContext SC, String ExeName, FileReference TargetFile, StagedFileReference StagedRelativeTargetPath, String StagedArguments) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 138
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w BaseWinPlatform.GetFilesToDeployOrStage(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 88
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w Win64Platform.GetFilesToDeployOrStage(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 551
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w Project.CreateStagingManifest(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\CopyBuildToStagingDirectory.Automation.cs:wiersz 540
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w Project.CopyBuildToStagingDirectory(ProjectParams Params) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\CopyBuildToStagingDirectory.Automation.cs:wiersz 3445
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w BuildCookRun.DoBuildCookRun(ProjectParams Params) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\BuildCookRun.Automation.cs:wiersz 209
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w BuildCookRun.ExecuteBuild() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\BuildCookRun.Automation.cs:wiersz 39
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.BuildCommand.Execute() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\BuildCommand.cs:wiersz 263
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Automation.Execute(List`1 CommandsToExecute, Dictionary`2 Commands) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Automation.cs:wiersz 538
+[2020.05.18-12.03.19:847][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Automation.Process(String[] Arguments, StartupTraceListener StartupListener) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Automation.cs:wiersz 508
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.MainProc(String[] Arguments, StartupTraceListener StartupListener) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 176
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.<>c__DisplayClass1_0.<Main>b__2() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 88
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.InternalUtils.RunSingleInstance(Func`1 Main) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Utils.cs:wiersz 731
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.Main(String[] Arguments) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 88
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\user\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+EGL+Epic+Games+UE_4.24\Log.txt for full exception trace)
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=1 (Error_Unknown)
+[2020.05.18-12.03.19:874][597]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2020.05.18-12.03.19:874][597]PackagingResults: Error: Unknown Error
+[2020.05.18-12.03.54:631][763]LogSlate: Took 0.085650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.18-12.05.03:179][179]LogSlate: Window 'Output Log' being destroyed
+[2020.05.18-12.05.03:335][179]LogSlate: Window 'Output Log' being destroyed
+[2020.05.18-12.05.37:433][613]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.05.18-12.07.04:889][160]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-12.07.10:403][432]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-12.07.16:679][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-12.07.17:913][773]LogUObjectHash: Compacting FUObjectHashTables data took  86.83ms
+[2020.05.18-12.07.19:511][773]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda149F1AF542844484B7DF899CD5745ADF.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.05.18-12.07.19:555][773]LogFileHelpers: Saving map 'jazda' took 2.894
+[2020.05.18-12.07.19:592][773]AssetCheck: New page: Asset Save: jazda
+[2020.05.18-12.07.19:592][773]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.05.18-12.07.21:546][871]LogSlate: Window 'jazda' being destroyed
+[2020.05.18-12.07.21:547][871]LogSlate: Window 'jazda' being destroyed
+[2020.05.18-12.07.21:604][871]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-12.07.21:604][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-12.08.07:220][386]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/jazda.jazda:PersistentLevel.jazda
+[2020.05.18-12.08.10:900][547]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.08.11:046][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.05.18-12.08.11:046][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-12.08.11:069][547]PIE: New page: PIE session: jazda (18 maj 2020, 16:08:11)
+[2020.05.18-12.08.11:069][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_jazda
+[2020.05.18-12.08.11:186][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116883s)
+[2020.05.18-12.08.11:200][547]LogAIModule: Creating AISystem for world jazda
+[2020.05.18-12.08.11:201][547]LogPlayLevel: PIE: World Init took: (0.014685s)
+[2020.05.18-12.08.11:201][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/jazda.jazda to /Game/Maps/UEDPIE_0_jazda.jazda (0.131732s)
+[2020.05.18-12.08.11:454][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.18-12.08.11:493][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.18-12.08.11:494][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.18-12.08.11:514][547]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.18-12.08.11:514][547]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Is Default: Yes
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: Channel Order:
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.18-12.08.11:543][547]LogAudioMixer: Display: 1: FrontRight
+[2020.05.18-12.08.11:551][547]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.05.18-12.08.11:610][547]LogInit: FAudioDevice initialized.
+[2020.05.18-12.08.12:139][547]LogLoad: Game class is 'GameModeBase'
+[2020.05.18-12.08.12:381][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_jazda.jazda up for play (max tick rate 0) at 2020.05.18-14.08.12
+[2020.05.18-12.08.12:382][547]LogWorld: Bringing up level for play took: 0.168778
+[2020.05.18-12.08.12:577][547]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.05.18-12.08.12:810][547]LogBlueprintUserMessages: [jazda_C_13] Siemanko! Witam w moim labiryncie!
+[2020.05.18-12.08.12:854][547]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_jazda 1,404
+[2020.05.18-12.08.12:887][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.05.18-12.08.14:831][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-12.08.14:831][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-12.08.14:856][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.05.18-12.08.14:856][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.08.14:860][633]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_jazda
+[2020.05.18-12.08.14:860][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-12.08.14:860][633]LogWorld: UWorld::CleanupWorld for jazda, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-12.08.14:884][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-12.08.14:899][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-12.08.14:899][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/jazda.jazda:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/jazda.jazda:PersistentLevel.jazda' with GeneratedClass '/Game/Maps/jazda.jazda_C' with ClassGeneratedBy '/Game/Maps/jazda.jazda:PersistentLevel.jazda'
+[2020.05.18-12.08.14:905][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-12.08.14:938][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-12.08.14:941][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.08.14:945][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.05.18-12.08.14:993][634]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.18-12.13.27:984][517]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.18-12.13.28:011][517]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.18-12.13.56:117][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.18-12.14.23:362][871]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.05.18-12.14.23:629][879]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/ue/MikołajGieleciak/MikołajGieleciak.uproject" -cook -stage -archive -archivedirectory="D:/Unreal Projects/ue/MikołajGieleciak/Builds" -package -ue4exe="D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2020.05.18-12.14.24:479][919]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-12.14.32:234][964]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.05.18-12.14.32:234][964]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject
+[2020.05.18-12.14.32:234][964]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-14.14.32.txt
+[2020.05.18-12.14.32:235][964]UATHelper: Packaging (Windows (64-bit)): Running: D:\EGL\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\ue\MikołajGieleciak\MikołajGieleciak.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\EGL\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.05.18-14.14.32.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.05.18-12.14.43:259][997]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.05.18-12.14.43:259][997]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: MikołajGieleciak
+[2020.05.18-12.15.01:269][ 51]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8545951744 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.18-12.15.04:950][ 62]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.18-12.15.05:287][ 63]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.18-12.15.05:619][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.18-12.15.05:619][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.18-12.15.05:638][ 64]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.05.18-12.15.05:958][ 65]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.18-12.15.06:628][ 67]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.18-12.15.08:968][ 74]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.18-12.15.09:304][ 75]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.18-12.15.09:304][ 75]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.18-12.15.13:973][ 89]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-12.15.13:973][ 89]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-12.15.17:320][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.18-12.15.17:320][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.05.18-12.15.17:320][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.05.18-12.15.20:663][109]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.05.18-12.15.20:663][109]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.05.18-12.15.21:666][112]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.05.18-12.15.21:666][112]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 1.073 seconds for platforms WindowsNoEditor  iterative false
+[2020.05.18-12.15.23:347][116]UATHelper: Packaging (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.23:347][116]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.23:347][116]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 166 Total 166
+[2020.05.18-12.15.23:347][116]PackagingResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.23:347][116]PackagingResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.24:355][120]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 165 Total 215
+[2020.05.18-12.15.25:695][124]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 171 Total 271
+[2020.05.18-12.15.28:718][133]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 171 Total 321
+[2020.05.18-12.15.29:050][134]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 175 Packages Remain 170 Total 345
+[2020.05.18-12.15.29:386][135]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 175 Packages Remain 26 Total 201
+[2020.05.18-12.15.30:391][138]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 188 Packages Remain 25 Total 213
+[2020.05.18-12.15.30:391][138]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 189 Packages Remain 24 Total 213
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 194 Packages Remain 23 Total 217
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 194 Packages Remain 0 Total 194
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.05.18-12.15.31:058][140]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 191, size is 118.48kb
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 7.576637s total time 13.982830
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 562MB Peak Used physical 523MB
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 6.149s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 3.223s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 1.073s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.007s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.203s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.009s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 7.575s (22)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 2.694s (22)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.074s (22)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (22)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 4.789s (7)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.062s (202)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 3.293s (199)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 1.404s (194)
+[2020.05.18-12.15.31:393][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.000s (194)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.395s (194)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.047s (194)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (191)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.015s (194)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (3)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.128s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.046s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.052s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.014s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.034s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.002341s to verify the EDL loading graph.
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.05.18-12.15.31:394][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000034
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=147
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=4.132042
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=194
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.205686
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.223088
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.034870
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000659
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001009
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000198
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.065712
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.068504
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.108009
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=89.023959
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=55.332286
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=41.302147
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=14.024256
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=6.148834
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.008658
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=7.836304
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.711208
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.403869
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=3.428902
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.012795
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000117
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000006
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000015
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.05.18-12.15.31:395][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       495
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       495
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.014141
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.985859
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  2.00                   2.00             0          7.13
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.65                   0.00             0         36.59
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.48                   0.48             0          0.54
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.36                   0.36             0          1.16
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.23                   0.23             0          5.49
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.04                   0.04             0          0.04
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.01                   0.01             0         38.27
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.02
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking MikołajGieleciak/Content/Maps/jazda
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   
+[2020.05.18-12.15.31:396][141]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  14.12 seconds
+[2020.05.18-12.15.43:504][177]UATHelper: Packaging (Windows (64-bit)):   Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+[2020.05.18-12.15.46:791][187]UATHelper: Packaging (Windows (64-bit)): Took 74,5262627s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.05.18-12.15.46:791][187]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.05.18-12.15.46:791][187]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.05.18-12.15.47:125][188]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)): ERROR: System.Exception: Couldn't update resource
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w ModuleResourceUpdate.SetData(Int32 ResourceId, ResourceType Type, Byte[] Data) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinResources.cs:wiersz 265
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w ModuleResourceUpdate.SetIcons(Int32 ResourceId, GroupIconResource GroupIcon) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinResources.cs:wiersz 270
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w BaseWinPlatform.StageBootstrapExecutable(DeploymentContext SC, String ExeName, FileReference TargetFile, StagedFileReference StagedRelativeTargetPath, String StagedArguments) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 138
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w BaseWinPlatform.GetFilesToDeployOrStage(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 88
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w Win64Platform.GetFilesToDeployOrStage(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Win\WinPlatform.Automation.cs:wiersz 551
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w Project.CreateStagingManifest(ProjectParams Params, DeploymentContext SC) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\CopyBuildToStagingDirectory.Automation.cs:wiersz 540
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w Project.CopyBuildToStagingDirectory(ProjectParams Params) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\CopyBuildToStagingDirectory.Automation.cs:wiersz 3445
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w BuildCookRun.DoBuildCookRun(ProjectParams Params) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\BuildCookRun.Automation.cs:wiersz 209
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w BuildCookRun.ExecuteBuild() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Scripts\BuildCookRun.Automation.cs:wiersz 39
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.BuildCommand.Execute() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\BuildCommand.cs:wiersz 263
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Automation.Execute(List`1 CommandsToExecute, Dictionary`2 Commands) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Automation.cs:wiersz 538
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Automation.Process(String[] Arguments, StartupTraceListener StartupListener) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Automation.cs:wiersz 508
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.MainProc(String[] Arguments, StartupTraceListener StartupListener) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 176
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.<>c__DisplayClass1_0.<Main>b__2() w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 88
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.InternalUtils.RunSingleInstance(Func`1 Main) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\AutomationUtils\Utils.cs:wiersz 731
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):           w AutomationTool.Program.Main(String[] Arguments) w D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\AutomationTool\Program.cs:wiersz 88
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\user\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+EGL+Epic+Games+UE_4.24\Log.txt for full exception trace)
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=1 (Error_Unknown)
+[2020.05.18-12.15.47:456][188]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2020.05.18-12.15.47:456][188]PackagingResults: Error: Unknown Error
+[2020.05.18-12.17.14:186][107]LogSlate: Window 'Output Log' being destroyed
+[2020.05.18-12.17.14:217][107]LogSlate: Window 'Output Log' being destroyed
+[2020.05.18-12.17.52:097][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-12.17.52:130][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.05.18-12.17.52:581][419]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazdaFADE978A4E22AF44B98791BCA4929451.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda.umap'
+[2020.05.18-12.17.52:679][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jazda_BuiltData" FILE="../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset" SILENT=true
+[2020.05.18-12.17.52:767][419]LogSavePackage: Moving '../../../../../../Unreal Projects/ue/MikołajGieleciak/Saved/jazda_BuiltDataA3AD3DE3442E5B30299BAA99C6BEB5EF.tmp' to '../../../../../../Unreal Projects/ue/MikołajGieleciak/Content/Maps/jazda_BuiltData.uasset'
+[2020.05.18-12.17.52:786][419]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.18-12.17.52:787][419]LogContentValidation: Display: Validating World /Game/Maps/jazda.jazda
+[2020.05.18-12.17.52:787][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/jazda_BuiltData.jazda_BuiltData
